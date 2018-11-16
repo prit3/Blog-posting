@@ -1,0 +1,17 @@
+body {background-color: snow;}
+
+form {padding:10px;
+	border: 1px solid gray;
+	background-color: snow;
+	width: 300px;
+	margin: auto;
+	}
+
+div {
+		
+}
+.hid{display: none;}
+
+header{	margin-left: auto;
+    margin-right: auto;
+    width: 9em;}
